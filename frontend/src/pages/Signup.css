@@ -1,0 +1,28 @@
+.Signup {
+  width: 500px;
+  text-align: center;
+  font-family: sans-serif;
+}
+
+.flex {
+  display: flex;
+  justify-content: space-between;
+}
+
+.in {
+  width: 48%;
+}
+
+.put {
+  width: 48%;
+}
+
+.Link {
+  text-decoration: none;
+  color: white;
+}
+
+.input {
+  box-sizing: border-box;
+  width: 100%;
+}
